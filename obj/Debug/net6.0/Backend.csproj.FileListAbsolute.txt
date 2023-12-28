@@ -1,0 +1,235 @@
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\appsettings.Development.json
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\appsettings.json
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.exe
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.deps.json
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.runtimeconfig.json
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.pdb
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.Backend.props
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Backend.props
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Backend.props
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets.build.json
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets.development.json
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\scopedcss\bundle\Backend.styles.css
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.csproj.CopyComplete
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\refint\Backend.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.pdb
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.genruntimeconfig.cache
+D:\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\ref\Backend.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.exe
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.deps.json
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.runtimeconfig.json
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.Backend.props
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Backend.props
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Backend.props
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\scopedcss\bundle\Backend.styles.css
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.csproj.CopyComplete
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\refint\Backend.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\ref\Backend.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Dapper.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.exe
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.deps.json
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.runtimeconfig.json
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.pdb
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Dapper.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.Backend.props
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Backend.props
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Backend.props
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\scopedcss\bundle\Backend.styles.css
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.csproj.CopyComplete
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\refint\Backend.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.pdb
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.genruntimeconfig.cache
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\ref\Backend.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Dapper.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer Aspire\Desktop\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.exe
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.deps.json
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.runtimeconfig.json
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Backend.pdb
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Dapper.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.Backend.props
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Backend.props
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Backend.props
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\scopedcss\bundle\Backend.styles.css
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.csproj.CopyComplete
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\refint\Backend.dll
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.pdb
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\Backend.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Theking1660\Sistema_Oferta_Acedemica\Backend\Backend\obj\Debug\net6.0\ref\Backend.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sistema_Oferta_Acedemica\Backend\Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\appsettings.Development.json
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\appsettings.json
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Backend.exe
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Backend.deps.json
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Backend.runtimeconfig.json
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Backend.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Backend.pdb
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Dapper.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.Backend.props
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Backend.props
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Backend.props
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\staticwebassets.build.json
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\staticwebassets.development.json
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\scopedcss\bundle\Backend.styles.css
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\Backend.csproj.CopyComplete
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\Backend.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\refint\Backend.dll
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\Backend.pdb
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\Backend.genruntimeconfig.cache
+D:\Sistema_Oferta_Acedemica 2\Backend\Backend\obj\Debug\net6.0\ref\Backend.dll
